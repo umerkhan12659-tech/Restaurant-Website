@@ -1,0 +1,6 @@
+{
+  "name": "Haveli Kebab & Grill",
+  "description": "The official website of Haveli Kebab & Grill in Karachi, featuring a rich menu, online reservations, custom food ordering, customer reviews, and a Gemini-powered AI Concierge virtual waiter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
